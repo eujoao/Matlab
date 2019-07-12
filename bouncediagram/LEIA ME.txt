@@ -1,0 +1,4 @@
+Para rodar o códdigo basta:
+1 - Abrir o diretório bounce.
+2 - Digitar na janela de comando "bouncediagram".
+3 - Digitar os valores correspondentes do circuito equivalente.
